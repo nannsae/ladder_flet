@@ -1,9 +1,8 @@
 # Ladder app
-파이썬, Flet UI, Gemini, CoPilot을 활용하여 생성한 사다리 애플리케이션입니다. AI를 활용한 연습 겸해서 사다리게임을 제작하였습니다.(jaekwonyi@naver.com)
-This is a ladder game application created using Python, Flet UI, Gemini and CoPilot. I developed it as practice while experimenting with AI tools.(jaekwonyi@naver.com)
+Ladder game (사다리 게임) built with Flet and Python. Supports 2-10 players, dynamic UI, and animation. See main.py for details.
 
 ## Run the app
-
+ 
 ### uv
 
 Run as a desktop app:
@@ -81,5 +80,6 @@ flet build windows -v
 ```
 
 For more details on building Windows package, refer to the [Windows Packaging Guide](https://flet.dev/docs/publish/windows/).
+
 # ladder_flet
 Ladder game (사다리 게임) built with Flet and Python. Supports 2-10 players, dynamic UI, and animation. See main.py for details.
