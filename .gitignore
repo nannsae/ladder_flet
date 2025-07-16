@@ -1,3 +1,5 @@
+# Ignore ai소통.txt
+src/ai소통.txt
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]

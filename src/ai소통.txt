@@ -1,4 +1,0 @@
-변수 명명규칙은 기본은 snake_case입니다.
-변수명은 타입/위젯명+역할 형태입니다.(예: btn_submit, txt_username, lbl_error_message)
-state변수는 접두어로 구분합니다. (예: is_logged_in, is_loading)
-이러한 규칙을 준용하여 변수명을 수정해주세요
